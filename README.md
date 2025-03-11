@@ -8,6 +8,7 @@ Este é um projeto desenvolvido para criar páginas em HTML com funcionalidades 
 - **Página de Esqueceu a Senha**: Opção para os usuários recuperarem suas senhas.
 - **Página de Agradecimento**: Exibe uma mensagem de agradecimento após a recuperação da senha.
 
+ ```bash
   Logchurch/
 │
 ├── index.html           # Página principal de login

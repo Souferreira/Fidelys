@@ -16,15 +16,18 @@ Este é um projeto desenvolvido para criar páginas em HTML com funcionalidades 
 
 Abra o arquivo index.htmlno seu navegador para visualizar uma página de login.
 
-Tecnologias Usadas
+## Tecnologias Usadas
+
 HTML
 CSS (a ser implementado)
 JavaScript (planejado para versões futuras)
-Próximos Passos
+## Próximos Passos
+
 Implementar o estilo com CSS.
 Adicionar funcionalidades de validação de formulário e interatividade com JavaScript.
-Contribuições
+
+## Contribuições
 Contribuições são bem-vindas! Se você tem sugestões ou melhorias, fique à vontade para abrir um issue ou enviar um pull request.
 
-
+  ```bash
 Esse é apenas um exemplo, sinta-se à vontade para adaptar conforme seu projeto e necessidades!

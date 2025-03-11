@@ -9,7 +9,7 @@ Este é um projeto desenvolvido para criar páginas em HTML com funcionalidades 
 - **Página de Agradecimento**: Exibe uma mensagem de agradecimento após a recuperação da senha.
 
 ## ESTRUTURA
- ```bash
+ 
   Logchurch/
 │
 ├── index.html           # Página principal de login

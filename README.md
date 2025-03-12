@@ -1,4 +1,4 @@
-# Logchurch
+# Fidelys
 
 Este é um projeto desenvolvido para criar páginas em HTML com funcionalidades básicas de login, recuperação de senha e agradecimento após recuperação. O projeto tem como objetivo fornecer uma estrutura simples para páginas de autenticação de usuários.
 

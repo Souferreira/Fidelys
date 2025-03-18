@@ -1,0 +1,70 @@
+/* Estilos globais */
+
+body {
+  background: linear-gradient(to right, #edebeb, #0816d0af);
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+
+img {
+  width: 150px;
+  height: 150px;
+  margin-bottom:25px;
+}
+
+ h2 {
+  margin:0 auto;
+  font-size: 30px;
+  color: #0e0e0e;
+}
+
+ p {
+  color: #2a2a2a;
+  margin-bottom: 20px;
+}
+
+[type="text"],
+[type="password"] {
+  width: 70%;
+  padding: 10px;
+  align-items: center;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+ button {
+  width: 50%;
+  padding:5px;
+  background-color: #30abe8;
+  border: none;
+  margin: 10px auto;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
+
+ button:hover {
+  background: linear-gradient(to right, #cfcfcf, #1468f9);
+}
+
+.forgot-password a {
+  color: #0da3ed;
+  text-decoration: none;
+}
+
+
+footer{
+  text-align: center;
+  margin-top: 20px;
+  color: #fff;
+}

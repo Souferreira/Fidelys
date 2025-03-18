@@ -1,55 +1,59 @@
 # Fidelys
 
-Este é um projeto desenvolvido para criar páginas em HTML com funcionalidades básicas de login, recuperação de senha e agradecimento após recuperação. O projeto tem como objetivo fornecer uma estrutura simples para páginas de autenticação de usuários.
-
-## Funcionalidades
-
-- **Página de Login**: Tela de login para os usuários acessarem o sistema.
-- **Página de Esqueceu a Senha**: Opção para os usuários recuperarem suas senhas.
-- **Página de Agradecimento**: Exibe uma mensagem de agradecimento após a recuperação da senha.
+## Descrição
+[Fidelys](https://github.com/Souferreira/Fidelys) é um projeto focado em [descrição detalhada do que o projeto faz]. Ele utiliza CSS e HTML para [finalidade do projeto].
 
 
-## Como Usar
+## Instalação
+Para instalar e configurar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/souferreira/Logchurch.git
+    ```sh
+    git clone https://github.com/Souferreira/Fidelys.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd Fidelys
+    ```
 
-Abra o arquivo index.htmlno seu navegador para visualizar uma página de login.
+## Uso
+Aqui estão alguns exemplos de como usar o projeto:
 
-## Tecnologias Usadas
+1. Abra o arquivo `index.html` no seu navegador para visualizar a interface de login.
+2. Utilize `forgot-password.html` para a página de recuperação de senha.
+3. Acesse `thank-you.html` após a recuperação de senha.
 
-HTML
-CSS (a ser implementado)
-JavaScript (planejado para versões futuras)
-## Próximos Passos
+## Contribuição
+Para contribuir com este projeto, siga estas etapas:
 
-Implementar o estilo com CSS.
-Adicionar funcionalidades de validação de formulário e interatividade com JavaScript.
+1. Faça um fork do repositório.
+2. Crie uma nova branch:
+    ```sh
+    git checkout -b minha-contribuicao
+    ```
+3. Faça suas alterações e commit:
+    ```sh
+    git commit -m 'Adicionar nova funcionalidade'
+    ```
+4. Envie para a branch original:
+    ```sh
+    git push origin minha-contribuicao
+    ```
+5. Crie um Pull Request.
 
-## Contribuições
-Contribuições são bem-vindas! Se você tem sugestões ou melhorias, fique à vontade para abrir um issue ou enviar um pull request.
 
-Esse é apenas um exemplo, sinta-se à vontade para adaptar conforme seu projeto e necessidades!
+## Licença
+Este projeto está licenciado sob a licença [nome da licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## ESTRUTURA
+## Autores
+- [Emanuel Ferreira](https://github.com/Souferreira)
+
+   
+## Estrutura do Projeto
+O projeto está organizado da seguinte forma:
+
 
  ```bash
 
-Logchurch/
-│
-├── index.html           # Página principal de login
-├── forgot-password.html # Página de recuperação de senha
-├── thank-you.html       # Página de agradecimento após recuperação de senha
-│
-├── css/                 # Pasta para arquivos de estilo (CSS)
-│   └── style.css        # Arquivo de estilos (CSS) para o projeto
-│
-├── js/                  # Pasta para scripts JavaScript (caso adicione interatividade)
-│   └── script.js        # Arquivo de scripts JavaScript
-│
-├── assets/              # Pasta para armazenar imagens, ícones, etc.
-│   ├── logo.png         # Exemplo de logo
-│   └── background.jpg   # Exemplo de imagem de fundo
-│
-└── README.md            # Arquivo README com informações do projet
+Fidelys/ │ ├── index.html # Página principal de login ├── forgot-password.html # Página de recuperação de senha ├── thank-you.html # Página de agradecimento após recuperação de senha │ ├── css/ # Pasta para arquivos de estilo (CSS) │ └── style.css # Arquivo de estilos (CSS) para o projeto │ ├── js/ # Pasta para scripts JavaScript (caso adicione interatividade) │ └── script.js # Arquivo de scripts JavaScript │ ├── assets/ # Pasta para armazenar imagens, ícones, etc. │ ├── logo.png # Exemplo de logo │ └── background.jpg # Exemplo de imagem de fundo │ └── README.md # Arquivo README com informações do projeto
+

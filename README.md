@@ -1,7 +1,7 @@
 # Fidelys
 
 ## Descrição
-[Fidelys](https://github.com/Souferreira/Fidelys) é um projeto focado em [descrição detalhada do que o projeto faz]. Ele utiliza CSS e HTML para [finalidade do projeto].
+[Fidelys](https://github.com/Souferreira/Fidelys) é um projeto focado em gestão de igrejas. Ele utiliza CSS e HTML para parte do frot-end.
 
 
 ## Instalação

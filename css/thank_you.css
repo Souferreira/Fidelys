@@ -1,0 +1,24 @@
+.thank_you_container {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align:center;
+  width: 300px;
+  }
+
+.thank_you_container h1 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.thank_you_container p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+  }
+  .icon[class="icon"] {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
